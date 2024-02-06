@@ -1,14 +1,14 @@
 {
   "name": "Web-tool",
   "version": "2.1.0",
-  "description": "Canvo tool by Mr Devil",
+  "description": "Canvo tool by Mr Roshan",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dineshsrivastav/Web.git"
+    "url": "git+https://github.com/roshanchouh/Roshan-web.git"
   },
   "keywords": [
     "Web-Tool",
@@ -16,12 +16,12 @@
     "Web-to-web",
     "tool"
   ],
-  "author": "Devil King",
+  "author": "Mr Roshan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dineshsrivastav/Web/issues"
+    "url": "https://github.com/roshanchouh/Roshan-web/issues"
   },
-  "homepage": "https://github.com/dineshsrivastav/Web #readme",
+  "homepage": "https://github.com/roshanchouh/Roshan-web #readme",
   "dependencies": {
     "chalk": "2.0",
     "fca-unofficial": "^1.3.10",
