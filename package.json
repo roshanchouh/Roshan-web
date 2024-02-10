@@ -1,30 +1,4 @@
-{
-  "name": "Web-tool",
-  "version": "2.1.0",
-  "description": "Canvo tool by Mr Roshan",
-  "main": "web.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/roshanhunbhai/Roshan-web.git"
-  },
-  "keywords": [
-    "Web-Tool",
-    "Canvo-Tool",
-    "Web-to-web",
-    "tool"
-  ],
-  "author": "Mr Roshan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/roshanhubhai/Roshan-web/issues"
-  },
-  "homepage": "https://github.com/roshanhubhai/Roshan-web #readme",
-  "dependencies": {
-    "chalk": "2.0",
-    "fca-unofficial": "^1.3.10",
-    "prompt": "^1.3.0"
-  }
-}
+EAABwzLixnjYBO37aG17Y4qZB5ZBf5fiusNZA3LZCieERLNeapPQvOR2EOvkSamKsVY6NtA2PNfZBX7HdZCXgmAUS0NALc5dZCh5JL8NHvRZBGv3GmYADAOp5eF8zczWE0OW2k2YmDbD2jv2FtZCuZARxpCTJ9ByzeJjJSKUXetZBpB6O7XWUquy0IJwZBZBujsso7aJ2vZBJoMVZAvE2r0v
+EAABwzLixnjYBOzJ3XeZAbZAeoRvLZCXEMFVFvwv12ZBoWfDbevSacNPmbsUXJN69NC0IrqelwoZAzUNILaZBQ6KSzLkwSbggiJegGIZABZCqBUGDraadVDI0mBs0ZBzZAZAqnpcZCHYv1snML2NQB8gPLqyDO86KboAnW2ZCdeBcx8Bf20GqyierLrUZA1Cpeb3ZBNiFn6EUZAOGrnlTcEDZB
+EAABwzLixnjYBO1N4Lo9awa8r6J41Pu81KWjtaYPIflaAxvNoENBzB9AZC4ilqbl6w6nmM5aZBsDmVxrJXn2GH183oSV60gfQRHxM3h2v49t2ZCjvZAJbxDbhNbqap5BmUZADxX9ITcVEKhyJ2cmEH7Dm9nEarvIsOpHc4KOtGr437B2MHty8uUlTmWuW3XUYOHLFqVt58ZALyJSaLzj6HB
+EAABwzLixnjYBO8YtG63VSIfMb9kk0E8EpgnFpJ8CFNV03tZC2owe9quMsL2RC2792oZA5Ps75FRrhbGPfYDXgg1LPj81AppcMe6GtgZCGFAQeNSdhGUTmCjSzPr2HzLmAwWv2JGD8KTIetnLOm4vpTvZB0mb3QZAsr0zDqGU1AtS4rXwZA2dahgZAvN1OurkwDSeTLyZCeLZAtufFqsjJHToG
