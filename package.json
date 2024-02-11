@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roshanhunbhai/Roshan-web.git"
+    "url": "git+https://github.com/roshanchouh/Roshan-web.git"
   },
   "keywords": [
     "Web-Tool",
@@ -19,9 +19,9 @@
   "author": "Mr Roshan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roshanhubhai/Roshan-web/issues"
+    "url": "https://github.com/roshanchouh/Roshan-web/issues"
   },
-  "homepage": "https://github.com/roshanhubhai/Roshan-web #readme",
+  "homepage": "https://github.com/roshanchouh/Roshan-web #readme",
   "dependencies": {
     "chalk": "2.0",
     "fca-unofficial": "^1.3.10",
